@@ -1,4 +1,4 @@
-import data from "./data.json" assert { type: "json"};
+import data from "./wrokshop/data.json" assert { type: "json"};
 
 function setTitle() {
     const title = document.getElementById("title");
