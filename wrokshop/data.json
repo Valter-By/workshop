@@ -1,0 +1,23 @@
+{
+    "title": "Valter : Fufa & Fariska",
+    "bigLinks": [
+        {
+            "name": "Telegram to connection",
+            "url": "https://t.me/sparrow_only"
+        },
+        {
+            "name": "Instagram to follow",
+            "url": "https://www.instagram.com/factura.by"
+        }
+    ],
+    "smallLinks": [
+        {
+            "name": "Telegram",
+            "url": "https://t.me/sparrow_only"
+        },
+        {
+            "name": "Git",
+            "url": "https://github.com/Valter-By"
+        }
+    ]
+}
